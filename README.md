@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Karim</h1>
 <h3 align="center">MSc in Data Science</h3>
 
