@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim</h1>
-<h3 align="center">MSc in Data Science</h3>
+<h3 align="center">MSc in Artificial Intelligence & Big Data</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
